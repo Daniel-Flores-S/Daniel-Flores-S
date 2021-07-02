@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello Stranger! 👋
 
-📚 4/8 Bacharelado em Sistemas de Informação | IFBA <br/>
+📚 Bacharelado em Sistemas de Informação | IFBA <br/>
 👩🏻‍💻 FullStack Development
 
  <summary align="left">GitHub Profile Stats 💻 📊 🏆</summary>
