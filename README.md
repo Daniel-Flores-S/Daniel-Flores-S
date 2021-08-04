@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 📚 Bacharelado em Sistemas de Informação | IFBA <br/>
 👩🏻‍💻 FullStack Development
 
- <summary align="left">GitHub Profile Stats 💻 📊 🏆</summary>
+ <summary align="left">GitHub Profile Stats 💻 📊 </summary>
 <p>
     <img 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Flores-S&langs_count=8&layout=compact&theme=gruvbox" 
